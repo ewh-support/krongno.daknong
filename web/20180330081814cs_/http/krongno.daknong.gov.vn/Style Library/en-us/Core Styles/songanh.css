@@ -164,6 +164,7 @@ div.thongbao-detail td.LItem a, div.thongbao-detail td.LItem a:link {
 	height:36px;
 	background: url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/ms-menu.jpg") repeat-x 0px 0px;
 	border-top:1px #fff solid;
+	background-color: #006797;
 }
 .parent{
 	float:left;
@@ -224,6 +225,7 @@ ul#topnav li#firstlist0{
 	border-bottom: 1px #cdcdcd solid;
 	margin-left:5px;
 	margin-right:5px;
+	background-color: #fff;
 }
 .second-list {
 	background: url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/bg-submenucent.png") repeat-y left bottom;
@@ -907,6 +909,7 @@ div.union_main_image .Union_desc{
 	background:url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/bgTab.jpg") no-repeat 0px top;
 	height:32px;
 	padding:0px 0px 0px 10px;
+	 background-color: #006797;
 }
 .lacviet-tabsnews .ui-tabs .ui-tabs-nav li{
 	margin-top:5px;
@@ -918,6 +921,7 @@ div.union_main_image .Union_desc{
 .lacviet-tabsnews .ui-tabs .ui-tabs-nav li.ui-tabs-selected a{
 	background:url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/tabLeft.jpg") no-repeat 0px bottom;
 	height:27px;
+	 color: #fff !important;
 }
 .news-tab-thumb-item-0{
 	overflow:hidden;
