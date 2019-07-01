@@ -62,14 +62,14 @@
 }
 .jcarousel-next-horizontal {
 	right: 7px;
-	background: transparent url(../../../../../20180613235707im_/http%253A/krongno.daknong.gov.vn/SiteAssets/images/NextOff.png) no-repeat right top;
+	background: transparent url(/images/NextOff.png) no-repeat right top;
 }
 .jcarousel-prev-horizontal {
 	left: 7px;
-	background: transparent url(../../../../../20180613235707im_/http%253A/krongno.daknong.gov.vn/SiteAssets/images/PreOff.png) no-repeat left top;
+	background: transparent url(/images/PreOff.png) no-repeat left top;
 }
 .jcarousel-next-horizontal:hover {
-	background: transparent url(../../../../../20180613235707im_/http%253A/krongno.daknong.gov.vn/SiteAssets/images/NextOff.png) no-repeat right top;
+	background: transparent url(/images/NextOff.png) no-repeat right top;
 }
 .jcarousel-prev-horizontal:hover {
 	background: transparent url(../../../../../20180613235707im_/http%253A/krongno.daknong.gov.vn/SiteAssets/images/PreOff.png) no-repeat left top;
