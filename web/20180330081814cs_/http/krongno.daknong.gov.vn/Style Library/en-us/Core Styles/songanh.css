@@ -1533,11 +1533,11 @@ div#ppy1 .ppy-nav {
 	
 }
 .tieudiem  .TopNews-jcarousel-skin-tango .jcarousel-clip-horizontal {
-    padding-top: 20px;
+    padding-top: 10px;
     width: 600px;
 }
 .tieudiem .lv_topnews_mode3_divContainer{
-	height: 152px; 
+	height: 139px; 
 	overflow:hidden;
 	background: url("/images/tinhd-cent.png") repeat-y left bottom; overflow:hidden;
 }
