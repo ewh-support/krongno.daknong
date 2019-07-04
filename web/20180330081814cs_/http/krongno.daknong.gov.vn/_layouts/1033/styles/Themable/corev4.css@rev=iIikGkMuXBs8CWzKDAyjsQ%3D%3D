@@ -1133,7 +1133,7 @@ font-size:65%;
 .ms-WPBorder,.ms-WPBorderBorderOnly
 {
 /* [ReplaceColor(themeColor:"Accent3-Medium")] */ border-color:#9ac6ff;
-border-width:1px;
+border-width:0px;
 border-style:solid;
 }
 .ms-PartSpacingVertical
