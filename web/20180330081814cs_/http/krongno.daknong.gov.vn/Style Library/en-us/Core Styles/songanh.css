@@ -28,7 +28,7 @@ body.songanh,body.songanh-tintuc,body.v4master1{
 }
 #s4-workspace1{		
 	overflow:hidden;
-	background: url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/2015_bg.png"); top left repeat-x; background-attachment :fixed;
+	/* background: url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/2015_bg.png"); top left repeat-x; background-attachment :fixed; */
 }
 #s4-bodyContainer {
 	background: url("/images/bg_bao.png") no-repeat center 235px;
@@ -205,7 +205,7 @@ ul#topnav li#firstlist0{
 }
 #topnav ul.children {
 	position: absolute;
-	background: url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/bg-submenubot.png") no-repeat left bottom;
+	/* background: url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/bg-submenubot.png") no-repeat left bottom; */
 	width: 167px;
 	z-index: 10;
 	padding-bottom: 10px;
@@ -328,7 +328,7 @@ div.s4-search .ms-sbcell input{
 }
 .home{
 	float:right;
-	background:url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSoNganh/arrow-up.png") no-repeat 0px 12px;
+	/* background:url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSoNganh/arrow-up.png") no-repeat 0px 12px; */
 }
 .Footer-menu{
 	color:#fff;	
@@ -478,7 +478,7 @@ div.title_VBPL {
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
-    width:380px;
+    width:370px;
 }
 .hd_tapdinhkem {
     color: #005983;
@@ -1485,7 +1485,7 @@ div#ppy1 .ppy-nav {
 	background: transparent url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/tinnn-btm.png") no-repeat left bottom; overflow:hidden; padding-bottom:9px; border:0px;
 }
 .hlOTopR .ms-navheader,.wpgioithieu .ms-navheader{
-	background:#FFFFFF url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/tinnn-title.png") no-repeat left top;height:32px;line-height:32px; padding-bottom:0px; padding-top:0px;
+	/* background:#FFFFFF url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/tinnn-title.png") no-repeat left top;height:32px;line-height:32px; padding-bottom:0px; padding-top:0px; */
 }
 .hlOTopR  ul.classshow{
 	height: 135px; 
@@ -1833,15 +1833,15 @@ table.ds_VBPL {
 }
 .div_header_style1{
 	background: #ffffff url(/images/L-titlemn1.png) repeat-x left top;
-    height: 31px;
+    /* height: 31px; */
     width: 220px;
-    line-height: 31px;
+    /* line-height: 31px; */
     position: relative;
     z-index: 3;
-	text-align: center;
+	text-align: left;
 }
 .div_header_style1 a{
-	background: url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/tinnn-title.png") no-repeat fixed left bottom #006797;
+	/* background: url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/tinnn-title.png") no-repeat fixed left bottom #006797; */
 	display:block;
 	padding:4px 14px;
 	color:#fff!important;
@@ -2000,7 +2000,7 @@ div.lv-pst-xtn-t{
 }
 .tinHT{	
     overflow: hidden;
-    background: transparent url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/bg-space.png") no-repeat center bottom;
+    /* background: transparent url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/bg-space.png") no-repeat center bottom; */
     padding:0px 10px 0px 10px;
 
 }
@@ -2474,6 +2474,8 @@ font-weight:bold;
 }
 .pagination{
 	float:right;
+	height: 30px;
+    padding-right: 10px;
 }
 /*search*/
 #SRP{
@@ -2655,6 +2657,8 @@ div.srch-Page{
 }
 .pagination{
 	float:right;
+	height: 30px;
+    padding-right: 10px;
 }
 .title-item-slide{
 	display:none;
@@ -2666,7 +2670,7 @@ a img{
 	border:0px
 }
 .titleQC{	
-	background:#006797 url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/tinnn-title.png") no-repeat left top;
+	/* background:#006797 url("../../../../../../20180613224757im_/http%253A/krongno.daknong.gov.vn/imgSonganh/tinnn-title.png") no-repeat left top; */
 	height:32px;
 	line-height:32px; 
 	color: #fff!important;

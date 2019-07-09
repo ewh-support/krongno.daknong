@@ -164,12 +164,12 @@
 
 #ppy1 .ppy-prev {
     width:          22px;
-    background:     url(../../../../../../../../../20180613215037im_/http%253A/krongno.daknong.gov.vn/_LAYOUTS/LacVietBio/UserControls/PhotoAlbum/gfx/popeye/prev3.png) no-repeat center;
+    /* background:     url(../../../../../../../../../20180613215037im_/http%253A/krongno.daknong.gov.vn/_LAYOUTS/LacVietBio/UserControls/PhotoAlbum/gfx/popeye/prev3.png) no-repeat center; */
 }
 
 #ppy1 .ppy-next {
     width:          22px;
-    background:     url(../../../../../../../../../20180613215037im_/http%253A/krongno.daknong.gov.vn/_LAYOUTS/LacVietBio/UserControls/PhotoAlbum/gfx/popeye/next3.png) no-repeat center;
+    /* background:     url(../../../../../../../../../20180613215037im_/http%253A/krongno.daknong.gov.vn/_LAYOUTS/LacVietBio/UserControls/PhotoAlbum/gfx/popeye/next3.png) no-repeat center; */
 }
 
 #ppy1 .ppy-switch-enlarge {
