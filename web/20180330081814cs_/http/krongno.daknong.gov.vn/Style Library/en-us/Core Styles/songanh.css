@@ -547,7 +547,7 @@ div.htvb_Attachments a:hover{
 
 }
 .zoneCent table.ds_VBPL{
-	width:476px;
+	/* width:476px; */
 	margin-left:1px;
 	margin-right:1px;
 	overflow:hidden;
